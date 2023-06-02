@@ -1,4 +1,4 @@
-package internal
+package _const
 
 // ErrorCode represents the platform-wide error codes that can be raised by PSP
 type ErrorCode int64
